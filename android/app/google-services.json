@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025026177972",
+    "project_id": "codesplit-3",
+    "storage_bucket": "codesplit-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025026177972:android:5abd5165da4434c7f210e1",
+        "android_client_info": {
+          "package_name": "com.quiz_app_codesplit_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025026177972-74cptk4s982pnea63r0rvuphptf3pr2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9pZiIGJ_Uflkb9YC1rjh7Oy6NLVJexas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025026177972-74cptk4s982pnea63r0rvuphptf3pr2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

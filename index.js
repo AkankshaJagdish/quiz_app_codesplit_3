@@ -24,7 +24,7 @@ ScriptManager.shared.addResolver(async (scriptId) => {
   }
 
   // In production mode, resolve script location to URL
-  const url = Script.getRemoteURL(`http://somewhere-on-the-internet.com/${scriptId}`);
+  const url = Script.getRemoteURL(`http://somewhere-on-the-internet/${scriptId}`);
   console.log('Resolved script URL:', url);
   return {
     url,

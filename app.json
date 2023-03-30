@@ -1,4 +1,5 @@
 {
   "name": "quiz_app_codesplit_3",
-  "displayName": "quiz_app_codesplit_3"
+  "displayName": "quiz_app_codesplit_3",
+  "remoteChunks": ["src_DataStructuresQuiz_js", "src_JavaProgrammingQuiz_js", "src_MicroprocessorQuiz_js"]
 }
